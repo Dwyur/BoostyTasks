@@ -1,0 +1,4 @@
+name: boostytask
+version: '${project.version}'
+main: ru.dwyur.boostytask.Boostytask
+api-version: 1.16
