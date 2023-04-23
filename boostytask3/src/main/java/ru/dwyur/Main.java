@@ -21,7 +21,7 @@ public class Main {
 
     public static void getMultiplesNumber(int number) {
 
-        // Если число отрицательно
+        // Если число отрицательное
         if (number < 0) {
             System.out.println("Ошибка! Не используйте отрицательные числа");
             return;
